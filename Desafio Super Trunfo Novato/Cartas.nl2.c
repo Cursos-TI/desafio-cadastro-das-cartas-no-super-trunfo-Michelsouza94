@@ -23,7 +23,7 @@ printf("Nome da Cidade: %s\n", nomedacidade);
 printf("População: %d\n", populacao);
 printf("Area: %.2f km²\n", area);
 printf("PIB: %.2f Bilhoões de reias\n", pib);
-printf("Número de Pontos Turísticos: %d", numerodepontosturisticos);
+printf("Número de Pontos Turísticos: %d\n", numerodepontosturisticos);
 
 return 0;
 }
